@@ -60,3 +60,13 @@ pip install ./simple-knn
 
 - The basic version of Physics-aware 4D Transition Planning can be found in the path `./4d-Agent/`. The full reasoning code will be released when this work is accepted. Besides, we provide the 4D data in the path `./arguments/`.
 - The training and rendering scripts can be referred to the file `./full_training_pipeline.sh`. We have also provided pre-generated coarse 3D objects in `./input_ply/` for a quick test of our Trans4D, in case you prefer not to generate the coarse 3D objects using [threestudio](https://github.com/threestudio-project/threestudio)
+
+## Citation
+```
+@article{zeng2024trans4d,
+  title={Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis},
+  author={Zeng, Bohan and Yang, Ling and Li, Siyu and Liu, Jiaming and Zhang, Zixiang and  Tian, Juanxi and Zhu, Kaixin and Guo, Yongzhen and Wang, Fu-Yun and Xu, Minkai and Ermon, Stefano and Zhang, Wentao},
+  journal={arXiv preprint arXiv:},
+  year={2024}
+}
+```
