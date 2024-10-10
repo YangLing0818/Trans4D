@@ -1,5 +1,9 @@
 # Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis
 
+<p align="left">
+  <a href='https://arxiv.org/abs/'>
+  <img src='https://img.shields.io/badge/Arxiv-2404.19759-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
+</p>
 
 <p align="center">
 <img src="assets/missile_plane_explode/view_1.gif" width="240" height="120"> <img src="assets/missile_plane_explode/view_2.gif" width="240" height="120"> <img src="assets/missile_plane_explode/view_3.gif" width="240" height="120"> 
@@ -9,10 +13,12 @@
 <img src="assets/magician_dancer_smoke/view_1.gif" width="240" height="240"> <img src="assets/magician_dancer_smoke/view_2.gif" width="240" height="240"> <img src="assets/magician_dancer_smoke/view_3.gif" width="240" height="240"> 
 </p>
 
-
-## Overview
-
+<details>
+    <summary>Click for full abstract</summary>
 Recent advances in diffusion models have demonstrated exceptional capabilities in image and video generation, further improving the effectiveness of 4D synthesis. Existing 4D generation methods can generate high-quality 4D objects or scenes based on user-friendly conditions, benefiting the gaming and video industries. However, these methods struggle to synthesize significant object deformation of complex 4D transitions and interactions within scenes. To address this challenge, we propose Trans4D, a novel text-to-4D synthesis framework that enables realistic complex scene transitions. Specifically, we first use multi-modal large language models (MLLMs) to produce a physic-aware scene description for 4D scene initialization and effective transition timing planning. Then we propose a geometry-aware 4D transition network to realize a complex scene-level 4D transition based on the plan, which involves expressive geometrical object deformation. Extensive experiments demonstrate that Trans4D consistently outperforms existing state-of-the-art methods in generating 4D scenes with accurate and high-quality transitions, validating its effectiveness.
+</details>
+
+
 
 
 ## Install
