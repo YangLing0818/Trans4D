@@ -1,8 +1,8 @@
 # Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis
 
 <p align="left">
-  <a href='https://arxiv.org/abs/'>
-  <img src='https://img.shields.io/badge/Arxiv-2404.19759-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
+  <a href='https://arxiv.org/abs/2410.07155'>
+  <img src='https://img.shields.io/badge/Arxiv-2410.07155-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ pip install ./simple-knn
 @article{zeng2024trans4d,
   title={Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis},
   author={Zeng, Bohan and Yang, Ling and Li, Siyu and Liu, Jiaming and Zhang, Zixiang and  Tian, Juanxi and Zhu, Kaixin and Guo, Yongzhen and Wang, Fu-Yun and Xu, Minkai and Ermon, Stefano and Zhang, Wentao},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2410.07155},
   year={2024}
 }
 ```
